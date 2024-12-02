@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <a href="vdcoder69@gmail.come" target="_blank">
+  <a href="vdcoder69@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/v-devanarayanan" target="_blank">
@@ -27,6 +27,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYxMXE0YjJ2amVsMzQ2ZXdyMHViZzlkc3drcGlhYzhsdGpwcGJmYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYxMXE0YjJ2amVsMzQ2ZXdyMHViZzlkc3drcGlhYzhsdGpwcGJmYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
